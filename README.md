@@ -1,24 +1,14 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# WorkFlowMe
 
-Things you may want to cover:
+## 目的
+日々や毎月の定型業務を「ミス防止チェック付き」で運用する。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## MVPスコープ
+- 業務テンプレの作成（名前/説明/頻度）
+- チェック項目の紐付け
+- 営業日基準スケジュール（第n営業日、週次、日次）
+- 今日/今週のタスク一覧＋完了ボタン
+- 営業日設定（平日＋例外日）
+- 作業手順から過去のミス記録を見れる
+- 作業手順にイレギュラー事項を追加できる
